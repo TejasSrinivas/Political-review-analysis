@@ -27,7 +27,7 @@ neutral_count = 0
 
 
 # Variable to store the search element
-search_keyword='Donald Trump'
+search_keyword=''
 
 # Calling the search method
 
